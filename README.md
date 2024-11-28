@@ -43,6 +43,8 @@ Something else - will not be displayed
 
 This format combines readability with flexibility, allowing for rich organization through tags while remaining easy to edit manually when desired.
 
+The title & url and dashes (---) are required, but the other elements can be used to enhance your bookmarks.
+
 ## Features
 
 ### File-First Approach
@@ -92,6 +94,7 @@ just remember:
 - [ ] Markdown-centric implementation
 - [ ] File monitoring and sync
 - [ ] Basic GUI interface
+- [ ] llms.txt
 
 ### Phase 2: System Integration
 
